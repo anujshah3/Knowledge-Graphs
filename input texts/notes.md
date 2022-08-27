@@ -6,5 +6,3 @@ Use **15_kg_goldstd_paragraphs.txt** for initial development and evaluation purp
 * para 23
 * para 27
 * para 35
-* para 39
-* para 40
