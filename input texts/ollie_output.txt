@@ -1,0 +1,57 @@
+An entity shall account for a contract with a customer that is within the scope of this Standard only when all of the following criteria are met:  the parties to the contract have approved the contract (in writing, orally or in accordance with other customary business practices) and are committed to perform their respective obligations; the entity can identify each party's rights regarding the goods or services to be transferred; the entity can identify the payment terms for the goods or services to be transferred; the contract has commercial substance (ie the risk, timing or amount of the entity's future cash flows is expected to change as a result of the contract); and it is probable that the entity will collect the consideration to which it will be entitled in exchange for the goods or services that will be transferred to the customer. In evaluating whether collectability of an amount of consideration is probable, an entity shall consider only the customer's ability and intention to pay that amount of consideration when it is due. The amount of consideration to which the entity will be entitled may be less than the price stated in the contract if the consideration is variable because the entity may offer the customer a price concession (see paragraph 52).
+0.879: (it; will be entitled in; exchange)
+0.854: (An entity; shall account for; a contract)
+0.833: (the entity; can identify; the payment terms)[enabler=for the goods or services to be transferred]
+0.804: (an entity; shall consider; the customer 's ability and intention to pay that amount of consideration)[enabler=when it is due . The amount of consideration to which the entity will be entitled may be less than the price stated in the contract if the consideration is variable because the entity may offer the customer a price concession ( see paragraph 52 )]
+0.773: (the entity; can identify; each party 's rights)
+0.735: (a customer; is within; the scope of this Standard)
+0.725: (the price; be stated in; the contract)
+0.698: (the entity; will be entitled in; consideration)[enabler=if the consideration is variable because the entity may offer the customer a price concession ( see paragraph 52 )]
+0.662: (the entity; will collect; the consideration to which it will be entitled in exchange for the goods or services)
+0.614: (the entity; may offer the customer; a price concession)
+0.527: (collectability of an amount of consideration; is; probable)
+0.526: (it; is; due)
+0.473: (the contract; have has is; probable)
+0.473: (the parties; have has is; probable)
+0.467: (probable; be collectability of; an amount of consideration)
+0.389: (the parties; have approved has; the contract)
+0.358: (it; have has is; probable)
+0.238: (the contract; have approved has; the contract)
+0.205: (commercial substance; be the parties to; the contract)
+0.205: (probable; be the parties to; the contract)
+0.162: (it; have approved has; the contract)
+0.125: (the consideration; is; variable)
+
+At contract inception, an entity shall assess the goods or services promised in a contract with a customer and shall identify as a performance obligation each promise to transfer to the customer either: a good or service (or a bundle of goods or services) that is distinct; or a series of distinct goods or services that are substantially the same and that have the same pattern of transfer to the customer (see paragraph 23). 
+0.817: (the goods or services; be promised in; a contract)
+0.699: (an entity; shall assess shall; the goods or services promised in a contract with a customer)
+0.519: (an entity; shall shall identify as; a performance obligation)
+0.473: (the goods or services promised in a contract with a customer; shall assess shall be at; contract inception)
+0.329: (an entity; shall assess the goods or services promised in a contract with a customer shall at; contract inception)
+
+A series of distinct goods or services has the same pattern of transfer to the customer if both of the following criteria are met: each distinct good or service in the series that the entity promises to transfer to the customer would meet the criteria in paragraph 35 to be a performance obligation satisfied over time; and in accordance with paragraphs 39–40, the same method would be used to measure the entity’s progress towards complete satisfaction of the performance obligation to transfer each distinct good or service in the series to the customer.
+0.836: (A series of distinct goods; has the same pattern of transfer to; the customer)[enabler=if both of the following criteria are met : each distinct good or service in the series that the entity promises to transfer to the customer would meet the criteria in paragraph 35 to be a performance obligation satisfied over time ; and in accordance with paragraphs 39� �"40 , the same method would be used to measure the entity’s progress towards complete satisfaction of the performance obligation to transfer each distinct good or service in the series to the customer]
+0.775: (A series of distinct goods; has; the same pattern of transfer)[enabler=if both of the following criteria are met : each distinct good or service in the series that the entity promises to transfer to the customer would meet the criteria in paragraph 35 to be a performance obligation satisfied over time ; and in accordance with paragraphs 39� �"40 , the same method would be used to measure the entity’s progress towards complete satisfaction of the performance obligation to transfer each distinct good or service in the series to the customer]
+0.694: (a performance obligation; be satisfied over; time)
+0.679: (each distinct; to be transfer in; the series)
+0.672: (the entity; promises to transfer to; the customer)
+0.625: (the entity; to transfer to; the customer)
+0.621: (the same method; would would be used in; accordance)
+0.517: (distinct good or service; would meet would; the criteria)
+
+A good or service that is promised to a customer is distinct if both of the following criteria are met: the customer can benefit from the good or service either on its own or together with other resources that are readily available to the customer (ie the good or service is capable of being distinct); and the entity’s promise to transfer the good or service to the customer is separately identifiable from other promises in the contract (ie the promise to transfer the good or service is distinct within the context of the contract).
+0.839: (the customer; can benefit from; the good or service either on)
+0.794: (the good or service; is distinct within; the context of the contract)
+0.674: (the good or service; is; distinct)
+
+An entity transfers control of a good or service over time and, therefore, satisfies a performance obligation and recognises revenue over time, if one of the following criteria is met: the customer simultaneously receives and consumes the benefits provided by the entity’s performance as the entity performs (see paragraphs B3–B4); the entity’s performance creates or enhances an asset (for example, work in progress) that the customer controls as the asset is created or enhanced (see paragraph B5); or the entity’s performance does not create an asset with an alternative use to the entity (see paragraph 36) and the entity has an enforceable right to payment for performance completed to date (see paragraph 37).
+0.881: (paragraph B5 ) ; or the entity’s performance; does not create an asset with; an alternative use)
+0.849: (the benefits; be provided by; the entity’s performance)
+0.845: (the customer; consumes; the benefits provided by the entity’s performance as the entity performs)
+0.838: (an asset; does not create with; an alternative use)
+0.834: (An entity; transfers; control of a good)
+0.833: (paragraph B5 ) ; or the entity’s performance; does not create; an asset)
+0.798: (paragraph 36; has; an enforceable right)
+0.798: (the entity; has; an enforceable right)
+0.589: (An entity; therefore satisfies; a performance obligation and recognises revenue)[enabler=if one of the following criteria is met : the customer simultaneously receives and consumes the benefits provided by the entity’s performance as the entity performs ( see paragraphs B3�" B4 ) ; the entity’s performance creates or enhances an asset ( for example , work in progress ) that the customer controls as the asset is created or enhanced ( see paragraph B5 ) ; or the entity’s performance does not create an asset with an alternative use to the entity ( see paragraph 36 ) and the entity has an enforceable right to payment for performance completed to date ( see paragraph 37 )]
+
